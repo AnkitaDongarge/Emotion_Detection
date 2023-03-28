@@ -109,5 +109,11 @@ class _HomeState extends State<Home> {
       loadModel();
 
     }
+
+  @override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+    throw UnimplementedError();
+  }
   }
 
